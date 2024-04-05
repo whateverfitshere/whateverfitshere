@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @whateverfitshere
-
+-I’m @whateverfitshere
+-Dont take my code there is 200% chance its broken..
 
 <!---
 whateverfitshere/whateverfitshere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
